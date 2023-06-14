@@ -78,7 +78,7 @@ const images = [
 
 const CompDaftarPropertiBaru = () => {
   return (
-    <div className="bg-gray-100 my-4">
+    <div className="bg-gray-100 my-4 md:mx-5 xl:mx-20">
       {/* Subjudul */}
       <div className="text-center md:text-left md:ml-2 align-middle justify-center mb-4">
         <h1 className="font-bold text-lg text-gray-700 mb-2">

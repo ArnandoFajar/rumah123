@@ -69,10 +69,10 @@ const images = [
 
 const CompPropertiPilihan = () => {
   return (
-    <div>
+    <div className="md:mx-5 xl:mx-20">
       <div className="md:flex">
         {/* Subjudul */}
-        <div className="text-center justify-center align-middle mb-2 md:w-full md:text-left md:mx-5">
+        <div className="text-center justify-center align-middle mb-2 md:w-full md:text-left">
           <p className="text-xl font-bold">Properti Pilihan Kami</p>
           <p className="text-md">
             Temukan berbagai macam properti unggulan di sini

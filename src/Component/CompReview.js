@@ -30,7 +30,7 @@ const testimonial = [
 
 const CompReview = () => {
   return (
-    <div className="my-4">
+    <div className="my-4 md:mx-5 xl:mx-20">
       {/* Subjudul */}
       <div className="text-center justify-center align-middle mb-6 mx-2 md:w-full md:text-left">
         <p className="text-xl font-bold mb-2">Review Pengguna Halorumah</p>

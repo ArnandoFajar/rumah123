@@ -33,7 +33,7 @@ const CompFilterSearch = () => {
         <p>Jual, Sewa & Bekerja Sama Properti</p>
       </div>
       {/* card  */}
-      <div className="bg-white boxShadow shadow-xl rounded-xl overflow-hidden m-5 md:m-10 ">
+      <div className="bg-white boxShadow shadow-xl rounded-xl overflow-hidden m-5 md:m-10 lg:mx-52 xl:mx-80 ">
         {/* tombol  */}
         <div className="px-4 pt-4 flex justify-left gap-1">
           <button className="bg-sky-500 text-white font-medium py-2 px-4 rounded">

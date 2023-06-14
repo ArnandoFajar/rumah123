@@ -3,7 +3,7 @@ import React from "react";
 const CompFooter = () => {
   return (
     <footer className="bg-gray-800 text-white p-5">
-      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4 mx-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4 md:mx-5 xl:mx-20">
         <div className="items-center mb-4">
           <img
             src="https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/04/28103347/white-logo-halorumah.png"

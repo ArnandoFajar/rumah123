@@ -5,7 +5,7 @@ const CompIconInput = () => {
   return (
     <div>
       {/* card icon row */}
-      <div className="m-4 mb-10 lg:mx-32">
+      <div className="m-4 mb-10 lg:mx-52 xl:mx-80">
         {/* Section input logo  */}
         <div class="grid grid-rows-2 grid-flow-col md:grid-rows-1 w-full gap-4">
           <div className="bg-white rounded-lg shadow-xl p-4 flex flex-col items-center">
