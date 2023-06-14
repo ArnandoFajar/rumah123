@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .content-auto {
+        content-visibility: auto;
+    }
+
+    .boxShadow {
+        box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.41);
+    }
+}
