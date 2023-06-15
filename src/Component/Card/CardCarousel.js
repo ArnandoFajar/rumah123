@@ -9,7 +9,7 @@ const CompCarousel = ({ images }) => {
     arrows: false,
     infinite: false,
     speed: 500,
-    slidesToShow: 4,
+    slidesToShow: 5,
     slidesToScroll: 1,
     initialSlide: 0,
     responsive: [
@@ -50,7 +50,7 @@ const CompCarousel = ({ images }) => {
                 <img
                   src={image.src}
                   alt={image.alt}
-                  className="w-full rounded-md h-80"
+                  className="w-full rounded-md h-80 md:h-64"
                 />
                 <div className="absolute z-10 text-xl text-white font-bold left-5 bottom-4 ">
                   {image.harga}

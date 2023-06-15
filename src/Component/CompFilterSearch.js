@@ -30,7 +30,7 @@ const CompFilterSearch = () => {
     "https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/06/01223818/main-bg.webp";
 
   return (
-    <div className="md:bg-blue-300 md:h-96 bg-white bg-cover">
+    <div className=" md:h-96 bg-white bg-cover">
       <div
         className="absolute z-0 h-96 w-full bg-cover hidden md:block"
         style={{
@@ -38,12 +38,12 @@ const CompFilterSearch = () => {
         }}
       ></div>
       {/* Subjudul */}
-      <div className="relative z-10 hidden md:block justify-center text-center p-10 font-bold text-white text-3xl">
+      <div className="relative z-20 hidden md:block justify-center text-center p-10 font-bold text-white text-3xl">
         <p>Jual, Sewa & Bekerja Sama Properti</p>
       </div>
 
       {/* card  */}
-      <div className="relative z-10 bg-white boxShadow shadow-xl rounded-xl overflow-hidden m-5 md:m-10 lg:mx-52 xl:mx-80 ">
+      <div className="relative z-20 bg-white boxShadow shadow-xl rounded-xl overflow-hidden m-5 md:m-10 lg:mx-52 xl:mx-80 ">
         {/* tombol  */}
         <div className="px-4 pt-4 flex justify-left gap-1">
           <button className="bg-sky-500 text-white font-medium py-2 px-4 rounded">

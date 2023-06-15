@@ -7,7 +7,11 @@ const CompCardPropertiBaru = ({ images }) => {
         {images.map((image, index) => (
           <div key={index}>
             <div className="relative ">
-              <img src={image.src} alt={image.alt} className="w-full h-80" />
+              <img
+                src={image.src}
+                alt={image.alt}
+                className="w-full h-80 rounded-md md:h-64"
+              />
               <div className="absolute z-0 bottom-1 bg-black bg-opacity-30 blur-xl hover:bg-transparent text-white text-center font-bold text-lg pt-36 w-full"></div>
               <div className="absolute z-10 text-xl text-white font-bold left-5 bottom-4 ">
                 {image.harga}

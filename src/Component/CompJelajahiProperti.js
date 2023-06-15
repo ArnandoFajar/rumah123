@@ -17,7 +17,7 @@ const CompJelajahiProperti = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mx-4">
         <div className="relative">
           <img
-            className="rounded-xl object-cover h-32 md:h-24 w-full"
+            className="rounded-xl object-cover h-32 md:h-24 lg:h-40 w-full"
             src="https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/01/25161152/tanah.webp"
           />
           <div className="absolute z-10 bottom-0 h-full w-full bg-black bg-opacity-25 rounded-xl"></div>
@@ -27,7 +27,7 @@ const CompJelajahiProperti = () => {
         </div>
         <div className="relative">
           <img
-            className="rounded-xl object-cover h-32 md:h-24 w-full"
+            className="rounded-xl object-cover h-32 md:h-24 lg:h-40 w-full"
             src="https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/02/02095928/rumah-home.webp"
           />
           <div className="absolute z-10 bottom-0 h-full w-full bg-black bg-opacity-25 rounded-xl"></div>
@@ -37,7 +37,7 @@ const CompJelajahiProperti = () => {
         </div>
         <div className="relative">
           <img
-            className="rounded-xl object-cover h-32 md:h-24 w-full"
+            className="rounded-xl object-cover h-32 md:h-24 lg:h-40 w-full"
             src="https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/02/02100020/apartemen.webp"
           />
           <div className="absolute z-10 bottom-0 h-full w-full bg-black bg-opacity-25 rounded-xl"></div>
@@ -47,7 +47,7 @@ const CompJelajahiProperti = () => {
         </div>
         <div className="relative">
           <img
-            className="rounded-xl object-cover h-32 md:h-24 w-full"
+            className="rounded-xl object-cover h-32 md:h-24 lg:h-40 w-full"
             src="https://halorumah.sgp1.digitaloceanspaces.com/wp-content/uploads/2023/02/02100106/image-7.webp"
           />
           <div className="absolute z-10 bottom-0 h-full w-full bg-black bg-opacity-25 rounded-xl"></div>
