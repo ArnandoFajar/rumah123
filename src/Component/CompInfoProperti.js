@@ -34,7 +34,7 @@ const artikel = [
 
 const CompInfoProperti = () => {
   return (
-    <div className="my-4 md:mx-5 xl:mx-20">
+    <div className="my-4 mb-16 lg:mb-28 md:mx-5 xl:mx-20">
       {/* Subjudul */}
       <div className="text-center justify-center align-middle mb-6 mx-2 md:w-full md:text-left">
         <p className="text-xl font-bold mb-2">Info Properti</p>

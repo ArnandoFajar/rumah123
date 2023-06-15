@@ -2,7 +2,7 @@ import React from "react";
 
 const CompJelajahiProperti = () => {
   return (
-    <div className="mb-6 md:mx-5 xl:mx-20">
+    <div className="mb-16 lg:mb-28 md:mx-5 xl:mx-20">
       <div className="mb-4 md:flex">
         {/* Subjudul */}
         <div className="text-center justify-center align-middle mb-2 mx-2 md:w-full md:text-left">

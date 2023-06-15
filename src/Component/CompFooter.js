@@ -2,7 +2,7 @@ import React from "react";
 
 const CompFooter = () => {
   return (
-    <footer className="bg-gray-800 text-white p-5">
+    <footer className="bg-gray-800 text-white py-16 px-5 lg:py-28">
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4 md:mx-5 xl:mx-20">
         <div className="items-center mb-4">
           <img
