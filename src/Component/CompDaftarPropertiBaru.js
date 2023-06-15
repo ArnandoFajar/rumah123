@@ -1,5 +1,5 @@
 import React from "react";
-import CardPropertiBaru from "./Card/CardPropertiBaru";
+import CardPropertiBaru from "./card/CardPropertiBaru";
 
 const images = [
   {

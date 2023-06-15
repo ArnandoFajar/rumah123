@@ -1,5 +1,5 @@
 import React from "react";
-import CompCarousel from "./Card/CardCarousel";
+import CompCarousel from "./card/CardCarousel";
 
 const images = [
   {

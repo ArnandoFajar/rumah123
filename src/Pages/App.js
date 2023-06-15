@@ -1,13 +1,13 @@
-import CompFilterSearch from "../Component/CompFilterSearch";
-import CompFooter from "../Component/CompFooter";
-import Navbar from "../Component/CompNavbar";
+import CompFilterSearch from "../component/CompFilterSearch";
+import CompFooter from "../component/CompFooter";
+import Navbar from "../component/CompNavbar";
 import "./App.css";
-import CompIconInput from "../Component/CompIconInput";
-import CompPropertiPilihan from "../Component/CompPropertiPilihan";
-import CompJelajahiProperti from "../Component/CompJelajahiProperti";
-import CompDaftarPropertiBaru from "../Component/CompDaftarPropertiBaru";
-import CompReview from "../Component/CompReview";
-import CompInfoProperti from "../Component/CompInfoProperti";
+import CompIconInput from "../component/CompIconInput";
+import CompPropertiPilihan from "../component/CompPropertiPilihan";
+import CompJelajahiProperti from "../component/CompJelajahiProperti";
+import CompDaftarPropertiBaru from "../component/CompDaftarPropertiBaru";
+import CompReview from "../component/CompReview";
+import CompInfoProperti from "../component/CompInfoProperti";
 
 function App() {
   return (
